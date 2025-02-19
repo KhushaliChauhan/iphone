@@ -1,0 +1,94 @@
+.nav
+{
+    height:50px;
+    width: 100%;
+    background-color: grey;
+    border: 1px solid grey;
+}
+.middle
+{
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.font
+{
+    text-decoration: none;
+    color: aliceblue;
+    font-size:25px;
+    margin-left: 50px;
+}
+.sec{
+    height: 526px;
+    width: 100%;
+    background-color: black;
+}
+.img{
+    margin-top: 28px;
+    height: 374px;
+    width: 750px;
+}
+.font1{
+    color: aliceblue;
+}
+.fontlink{
+    color: rgb(99, 176, 240);
+    margin-left :5px;
+    margin-top: 0px;
+}
+.img1{
+    align-items: center;
+    margin-top: 54px;
+}
+.fonser{
+    color: red;
+    font-style: italic;
+}
+.sec2{
+    height: 534px;
+    width: 100%;
+    background-color: black;
+}
+.sec3{
+    display: flex;
+}
+.subsec1{
+        width: 50%;
+        margin: 10px;
+        margin-left: 5px;
+        
+}
+.subsec2{
+    color: white;
+    width: 50%;
+    background-color: black;
+    margin: 10px ;
+}
+.img2{
+    width: 100%;
+}
+.subsec3{
+    color: black;
+    width: 50%;
+    margin: 5px ;
+}
+.img4{
+    width: 100%;
+}
+.footer{
+    height: 600px;
+    width: 1000px;
+    margin-left: 200px; 
+    color: rgb(166, 166, 166);
+}
+.font2{
+    color: black;
+}
+.font3{
+    color: rgb(81, 81, 81);
+}
+.foot{
+    display: flex;
+}
+.subfoot{
+    margin-left: 50px;
+}
